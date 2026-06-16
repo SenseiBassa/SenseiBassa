@@ -1,6 +1,6 @@
 ## Hi, I'm Joshua Samuel Bassa 👋
 
-Biomedical Engineer | Biotechnologist | Genomics Researcher | Founder
+Biomedical Engineer | Biotechnologist | | Bioinformatics Enthusiast | AI & Health Innovator | Genomics Researcher | Founder
 
 I'm passionate about building solutions at the intersection of biotechnology, healthcare, artificial intelligence, data science, and innovation.
 
